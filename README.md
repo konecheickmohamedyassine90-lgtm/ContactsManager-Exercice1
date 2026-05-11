@@ -1,4 +1,4 @@
-# ContactsManager - Exercice 1
+# ContactsManager 
 
 ## Description
 Application Java de gestion de contacts.
